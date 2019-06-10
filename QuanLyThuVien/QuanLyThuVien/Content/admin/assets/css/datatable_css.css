@@ -1,0 +1,23 @@
+.btn-mau-nen-xam{
+	color: #111;
+    background-color: #dae0e5;
+    border-color: #d3d9df;
+    float: right;
+}
+
+.datatable-label{
+	font-size: x-large;
+}
+
+.cot-Action{
+	width: 33%;
+    text-align: left;
+    padding-left: 21px;
+}
+
+.hide_block{
+display:none !important;
+}
+.display_block{
+display:block !important;
+}

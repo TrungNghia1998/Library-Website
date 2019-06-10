@@ -1,0 +1,109 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout_admin2.cshtml";
+}
+
+@section scripts{
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script src="~/Areas/Admin/Scripts/notify.min.js"></script>
+    <script src="~/Areas/Admin/Scripts/Book.js"></script>
+    @if (TempData["msgthongbao"] != null)
+    {
+        <script type="text/javascript">
+            $.notify("@TempData["msgthongbao"]", {
+                globalPosition: "top center",
+                className: "success"
+            });
+        </script>
+    }
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="box">
+                    <div class="box-header">
+                        <h3 class="box-title">Sách</h3>
+                    </div>
+                    <div class="box-body">
+                        <div class="dataTables_wrapper form-inline dt-bootstrap">
+                            <div class="row">
+                                <div class="col-sm-6">
+                                    <button type="button" class="btn btn-primary" onclick="location.href='@Url.Action("Add","Book")'">Thêm mới</button>
+                                </div>
+                                <div class="col-sm-6" style="text-align:right">
+                                    <label>Search: <input type="text" class="form-control" id="inputKeyword" /></label>
+                                    <button class="btn" onclick="SearchClick()">Tìm</button>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <br />
+                                    <table id="#mytab" class="table table-hover dataTable table-bordered">
+                                        <thead>
+                                            <tr role="row">
+                                                <th>
+                                                    ID
+                                                </th>
+                                                <th>
+                                                    Tên sách
+                                                </th>
+                                                <th>
+                                                    Mô tả
+                                                </th>
+                                                <th>
+                                                    Alias
+                                                </th>
+                                                <th>
+                                                    Tác giả
+                                                </th>
+                                                <th>
+                                                    Thể loại
+                                                </th>
+                                                <th>
+                                                    Lượt xem
+                                                </th>
+                                                <th width="180px">
+                                                    Hình ảnh
+                                                </th>
+                                                <th>
+                                                    Ngày tạo
+                                                </th>
+                                                <th>
+                                                    Tạo bởi
+                                                </th>
+                                                <th>
+                                                    Top hot
+                                                </th>
+                                                <th width="150px">
+                                                    Action
+                                                </th>
+                                            </tr>
+                                        </thead>
+                                        <tbody class="tbody"></tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            <div class="row" style="text-align: right">
+                                <div class="dataTables_paginate paging_simple_numbers" style="padding-right: 15px">
+                                    <ul class="pagination" id="phantrang" style="margin-top: -10px;margin-bottom: 0px;"></ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+

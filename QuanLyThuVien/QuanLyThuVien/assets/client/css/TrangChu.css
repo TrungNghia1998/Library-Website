@@ -1,0 +1,96 @@
+.panel-body1 {
+    height: 40px;
+    margin: 15px;
+}
+
+footer.footer {
+    padding-left: 13px;
+    margin-bottom: 13px;
+}
+
+a.thumbnail {
+    height: 263.19px;
+}
+
+h1.ebook_title {
+    font-size: 24px;
+    margin-top: 0px;
+    margin-bottom: 14px;
+}
+
+.gioi_thieu_sach {
+    margin-bottom: -10px;
+}
+
+#Header-1{
+    margin-left: 14px;
+    margin-right: 16px;
+}
+
+nav.navbar.navbar-default{
+    margin-left: -1px;
+    margin-right: 1px;
+}
+
+.navbar-default {
+    background-color: #f8f8f8;
+    border-color: #e7e7e7;
+    margin-left: 14px;
+    margin-right: 16px;
+}
+
+a.thumbnail {
+    margin-top: 18px;
+    margin-bottom: -5px;
+}
+
+.img-thumbnail-1 {
+    padding: 4px;
+    line-height: 1.42857143;
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 4px;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    display: inline-block;
+    max-width: 99%;
+    height: 265px;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.pagination > li > a {
+    position: relative;
+    float: left;
+    padding: 6px 12px;
+    margin-left: -1px;
+    line-height: 1.42857143;
+    color: black;
+    text-decoration: none;
+    background-color: black;
+    border: 1px solid black;
+}
+
+
+.pagination {
+    display: inline-block;
+    padding-left: 0;
+    margin: 20px 0;
+    border-radius: 4px;
+}
+
+.thumbnail {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 1.42857143;
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 4px;
+    -webkit-transition: border 0.2s ease-in-out;
+    -o-transition: border 0.2s ease-in-out;
+    transition: border 0.2s ease-in-out;
+}

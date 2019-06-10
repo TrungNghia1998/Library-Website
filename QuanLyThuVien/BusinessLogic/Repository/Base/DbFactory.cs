@@ -1,0 +1,25 @@
+﻿using DataProvider.Model;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BusinessLogic.Repository.Base
+{
+    public class DbFactory : Disposable, IDbFactory
+    {
+        private DbQuanLyThuVienContext dbContext;
+
+        public DbQuanLyThuVienContext Init()
+        {
+            return dbContext ?? (dbContext = new DbQuanLyThuVienContext());
+        }
+
+        protected override void DisposeCore()
+        {
+            if (dbContext != null)
+                dbContext.Dispose();
+        }
+    }
+}

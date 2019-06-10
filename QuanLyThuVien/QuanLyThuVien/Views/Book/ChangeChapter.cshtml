@@ -1,0 +1,82 @@
+﻿
+@{
+    ViewBag.Title = "ChangeChapter";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var book = (DataProvider.Model.Book)ViewBag.Book;
+    var chuongsachduocchon = (DataProvider.Model.ChapterDetail)ViewBag.ChuongSachDuocChon;
+}
+
+<div class="container">
+    <div class="doc-online">
+        <h3 class="text-center">
+            @book.BookName
+        </h3>
+        <h3 class="text-center">
+            <small>
+                <a href="" class="lin-tap">@chuongsachduocchon.NameChapter</a>
+            </small>
+        </h3>
+        <hr><!--Thanh Kẻ Ngang-->
+
+        <!--Thanh Chuyển Chương-->
+        <div style="text-align: center;">
+            <div class="btn-group text-center">
+                <button type="button" class="btn btn-sm btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Chọn tập 
+                    <span class="caret"></span>
+                </button>
+           
+                <ul class="dropdown-menu scrollable-menu">
+                    <li class="active"><a href="">Chương @chuongsachduocchon.ChapterID - @chuongsachduocchon.NameChapter</a></li>
+                    @*@{ Html.RenderAction("ComboboxDanhSachChuong", "Book"); }*@
+                    @foreach (var item in Model)
+                    {
+                        <li><a href="@Url.Action("ChangeChapter","Book", new { chapAlias = @item.ChapterAlias })">Chương @item.ChapterID - @item.NameChapter</a></li>
+                    }
+                </ul>
+                <!--Button Next Chương Kế-->
+                @*<a href="doc-sach/@book.Alias/">
+                    <button type="button" class="btn btn-default btn-gly">
+                        <span class="glyphicon glyphicon-arrow-right"></span>
+                    </button>
+                </a>*@
+            </div>
+            <div></div>
+
+            <p class="noi-dung-online">@Html.Raw(chuongsachduocchon.Content)</p>
+      
+            <!--Thanh Chuyển Chương-->
+            <div style="text-align: center;">
+                <div class="btn-group text-center">
+                    <button type="button" class="btn btn-sm btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Chọn tập 
+                    <span class="caret"></span>
+                    </button>
+               
+                    <ul class="dropdown-menu scrollable-menu">
+                        <li class="active"><a href="">Chương @chuongsachduocchon.ChapterID - @chuongsachduocchon.NameChapter</a></li>
+                        @*@{ Html.RenderAction("ComboboxDanhSachChuong", "Book"); }*@
+                        @foreach (var item in Model)
+                        {
+                            <li><a href="@Url.Action("ChangeChapter","Book", new { chapAlias = @item.ChapterAlias })">Chương @item.ChapterID - @item.NameChapter</a></li>
+                        }
+                    </ul>
+                    @*<a href="">
+                        <button type="button" class="btn btn-default btn-gly">
+                            <span class="glyphicon glyphicon-arrow-right"></span>
+                        </button>
+                    </a>*@
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="panel panel-primary">
+        <div class="panel-heading">Bình luận</div>
+        <div class="panel-body">
+
+        </div>
+    </div>
+
+</div>
+

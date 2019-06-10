@@ -1,0 +1,104 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout_admin2.cshtml";
+}
+@section scripts
+{
+    <script src="/scripts/jquery.unobtrusive-ajax.js"></script>
+    <script src="js/captcha/jquery.clientsidecaptcha.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.16/css/dataTables.bootstrap4.min.css" />
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.16/js/dataTables.bootstrap4.min.js"></script>
+    <script src="~/Areas/Admin/Scripts/notify.min.js"></script>
+    <script src="~/Areas/Admin/Scripts/Ebook.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#dataTable').DataTable();
+            getListBookName();
+            getListTypeEbook();
+        });
+    </script>
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-xs-12">
+            <div class="box">
+                <div class="box-header">
+                    <h3 class="box-title">Ebook</h3>
+                </div>
+                <div class="box-body">
+                    <div class="row">
+                        <!--Button Thêm Mới-->
+                        <button style="margin-left: 27px;margin-bottom:10px;" type="button" class="btn btn-primary rounded-0" onclick="return clearModalEbook();" data-toggle="modal" data-target="#modalAddOrEditEbook">
+                            <i class="fa fa-plus-circle"></i> Thêm Ebook
+                        </button>
+                    </div>
+                    <table id="dataTable" class="table table-bordered table-striped">
+                        <thead>
+                            <tr>
+                                <th>Tên sách</th>
+                                <th>Loại ebook</th>
+                                <th>Link</th>
+                                <th width="150px">Action</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tablebody">
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+
+                                    <td>@item.NameBook</td>
+                                    <td>@item.NameType</td>
+                                    <td>@item.Link</td>
+                                    <td>
+                                        <a class="btn btn-default btn-sm" onclick="return getEbookByID(@item.BookID,@item.TypeEbookID)"><i class="fa fa-edit"></i> Edit</a>  <a class="btn btn-danger btn-sm" onclick="return DeleteEbook(@item.BookID,@item.TypeEbookID)"><i class="fa fa-trash"></i>Delete</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="modalAddOrEditEbook" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title" id="myModalLabel">Ebook</h4>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <input type="hidden" id="bookID" value="" />
+                    </div>
+                    <div class="form-group">
+                        <label>Tên sách</label>
+                        <select class="form-control" id="ddlBookName"></select>
+                    </div>
+                    <div class="form-group">
+                        <label>Loại ebook</label>
+                        <select class="form-control" id="ddlTypename"></select>
+                    </div>
+                    <div class="form-group">
+                        <label for="linkdownload">Link download</label>
+                        <input type="text" class="form-control" id="linkDownload" />
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" id="btnAddEbook" onclick="return AddEbook();">Add</button>
+                <button type="button" class="btn btn-primary" id="btnUpdateEbook" style="display:none;" onclick="UpdateEbook();">Update</button>
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+

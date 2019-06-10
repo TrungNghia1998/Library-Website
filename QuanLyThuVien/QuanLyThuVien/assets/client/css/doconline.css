@@ -1,0 +1,67 @@
+hr{
+	border-top: 1px solid #e5e5e5;
+}
+
+.container .doc-online .btn {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    margin-left: 14px;
+    height: 40px;
+}
+
+.btn-group-sm>.btn, .btn-sm {
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.5;
+    border-radius: 3px;
+}
+
+
+.btn-group-vertical>.btn, .btn-group>.btn {
+    position: relative;
+    float: left;
+}
+
+.btn-gly{
+	margin-left: 14px;
+    height: 40px;
+}
+
+.btn-group>.btn:first-child {
+    margin-left: 0;
+}
+
+
+.container .doc-online p{
+	text-align: justify;
+}
+
+
+p {
+    margin: 0 0 10px;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.container .doc-online {
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    background-color: #eee;
+    line-height: 38px;
+    font-size: 18px;
+
+}

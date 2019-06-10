@@ -1,0 +1,23 @@
+﻿@model  PagedList.IPagedList<DataProvider.Model.Book>
+@using PagedList.Mvc;
+
+@foreach (var item in Model)
+{
+    <div class="col-xs-6 col-md-3 col-sm-3 ebook">
+        <a href="/ebook/@item.Alias-@item.BookID" class="thumbnail">
+            <img src="@item.MoreImages" alt="@item.BookName" style="width: 100%; height: 100%;">
+        </a>
+        <h5 class="tieude text-center" style="margin-top:11px">
+            <a href="/ebook/@item.Alias-@item.BookID">@item.BookName</a>
+        </h5>
+    </div>
+}
+<div class="col-xs-12">
+    <ul class="pagination pagination-sm" style="float: right">
+        @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+    </ul>
+</div>
+
+
+
+

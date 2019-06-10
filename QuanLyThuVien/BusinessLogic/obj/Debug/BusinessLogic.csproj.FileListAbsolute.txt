@@ -1,0 +1,197 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\BusinessLogic\bin\Debug\DataProvider.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\BusinessLogic\bin\Debug\DataProvider.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\BusinessLogic\bin\Debug\PagedList.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\BusinessLogic\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\BusinessLogic\bin\Debug\PagedList.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\BusinessLogic\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\BusinessLogic\bin\Debug\DataProvider.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\BusinessLogic\bin\Debug\PagedList.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\BusinessLogic\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\BusinessLogic\bin\Debug\DataProvider.pdb
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\BusinessLogic\bin\Debug\PagedList.xml
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\BusinessLogic\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\DataProvider.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.Mvc.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\DataProvider.pdb
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\DataProvider.dll.config
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.Mvc.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\DataProvider.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.Mvc.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\DataProvider.pdb
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\DataProvider.dll.config
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.Mvc.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\DataProvider.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\DataProvider.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.xml
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\DataProvider.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\DataProvider.pdb
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.xml
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\DataProvider.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.Mvc.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\DataProvider.pdb
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\DataProvider.dll.config
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.Mvc.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.pdb
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.pdb
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\DataProvider.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.Mvc.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\DataProvider.pdb
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\DataProvider.dll.config
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.xml
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.xml
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.Mvc.xml
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\DataProvider.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.Mvc.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\DataProvider.pdb
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\DataProvider.dll.config
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.xml
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.Mvc.xml
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\DataProvider.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.Mvc.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\DataProvider.pdb
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\DataProvider.dll.config
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\bin\Debug\PagedList.Mvc.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\BusinessLogic\bin\Debug\DataProvider.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\BusinessLogic\bin\Debug\PagedList.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\BusinessLogic\bin\Debug\PagedList.Mvc.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\BusinessLogic\bin\Debug\DataProvider.pdb
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\BusinessLogic\bin\Debug\DataProvider.dll.config
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\BusinessLogic\bin\Debug\PagedList.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\BusinessLogic\bin\Debug\PagedList.Mvc.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\BusinessLogic\obj\Debug\BusinessLogic.pdb

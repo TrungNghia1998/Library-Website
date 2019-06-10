@@ -1,0 +1,22 @@
+header{
+	border-bottom: solid 1px #E5E5E5;
+	padding: 17px 0;
+}
+
+footer{
+	border-top: solid 1px #E5E5E5;
+	padding: 17px 0;
+}
+
+.navbar-default{
+	background: none;
+	border: none;
+}
+.navbar-default .navbar-nav>li>a{
+	color: #1480b5;
+}
+
+.selected,
+.nav > li > a:focus, .nav > li > a:hover {
+	display: block;
+}

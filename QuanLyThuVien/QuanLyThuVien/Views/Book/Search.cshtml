@@ -1,0 +1,71 @@
+﻿@model  PagedList.IPagedList<DataProvider.Model.Book>
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "Search";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section slide
+{
+    <!--List Slide Bên phải màn hình</!-->
+    <div class="col-md-3 sidebar">
+
+        <!--Danh Ngôn Hay-->
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                Danh Ngôn Hay
+            </div>
+            <div class="panel-body">
+                @{ Html.RenderAction("RandomQuotation", "Home");}
+            </div>
+        </div>
+
+        <!--Slide Thể loại Sách-->
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                Thể loại sách
+            </div>
+            <ul id="sidebar" class="nav nav-pills nav-stacked">
+                @*@foreach (var item in Model)
+                    {
+                        <li><a href="/the-loai/@item.SeoTitle"><span class="glyphicon glyphicon-record"> </span> @item.CategoryName</a></li>
+                    }*@
+                @{ Html.RenderAction("TaoBangBenPhai", "Book"); }
+            </ul>
+        </div>
+    </div>
+}
+
+
+<div class="col-md-9">
+    <div class="panel panel-primary">
+        <div class="panel-heading">Kết quả tìm kiếm: @ViewBag.Keyword</div>
+        <div class="panel-body">
+            @*<div class="col-xs-6 col-md-3 col-sm-3 ebook">
+                    <a href="" class="thumbnail">
+                        <img src="" alt=" Model Book Name ">
+                    </a>
+                    <h5 class="tieude text-center">
+                        <a href="">Model Book Name</a>
+                    </h5>
+                </div>*@
+            @foreach (var item in Model)
+            {
+                <div class="col-xs-6 col-md-3 col-sm-3 ebook">
+                    <a href="/ebook/@item.Alias-@item.BookID" class="thumbnail">
+                        <img src="@item.MoreImages" alt="@item.BookName" style="height:100%; width:100%;">
+                    </a>
+                    <h5 class="tieude text-center">
+                        <a href="/ebook/@item.Alias-@item.BookID">@item.BookName</a>
+                    </h5>
+                </div>
+            }
+            <div class="col-xs-12">
+                <ul class="pagination pagination-sm" style="float: right">
+                    @Html.PagedListPager(Model, page => Url.Action("Search", new { page, keyword = ViewBag.keyword }))
+                </ul>
+            </div>
+        </div><!-- /panel body ebook -->
+    </div><!-- /panel ebook -->
+</div><!-- /list ebook -->

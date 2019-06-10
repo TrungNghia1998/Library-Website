@@ -1,0 +1,828 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\ApplicationInsights.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\roslyn\csc.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\roslyn\vbc.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\QuanLyThuVien.dll.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\QuanLyThuVien.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\QuanLyThuVien.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\BusinessLogic.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\DataProvider.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Helpers.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Mvc.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Webpages.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\BusinessLogic.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\DataProvider.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Webpages.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Helpers.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Mvc.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\PagedList.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\PagedList.Mvc.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\PagedList.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\DOAN1\NEW\QuanLyThuVien\QuanLyThuVien\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\QuanLyThuVien.dll.config
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\QuanLyThuVien.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\QuanLyThuVien.pdb
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\BusinessLogic.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\DataProvider.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\PagedList.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Webpages.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\BusinessLogic.pdb
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\DataProvider.pdb
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\PagedList.xml
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Webpages.xml
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.dll
+C:\Users\Admin\Desktop\source code\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\ApplicationInsights.config
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\csc.exe
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\vbc.exe
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.dll.config
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.pdb
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.SqlServer.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Web.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.ApplicationInsights.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.Mvc.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Helpers.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Mvc.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Razor.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Deployment.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Razor.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.pdb
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.dll.config
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.pdb
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.dll.config
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.SqlServer.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Web.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.ApplicationInsights.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.Mvc.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Razor.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Deployment.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Razor.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Helpers.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Mvc.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojAssemblyReference.cache
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\ApplicationInsights.config
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\csc.exe
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\vbc.exe
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.dll.config
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.pdb
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.SqlServer.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Web.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.ApplicationInsights.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.Mvc.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Helpers.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Mvc.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Razor.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Deployment.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Razor.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.pdb
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.dll.config
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.pdb
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.dll.config
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.SqlServer.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Web.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.ApplicationInsights.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.Mvc.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Razor.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Deployment.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Razor.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Helpers.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Mvc.xml
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojAssemblyReference.cache
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.dll
+C:\Users\COMPUTER\Downloads\Đồ Án 1\BackUp_QuanLyThuVien\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.dll.config
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.xml
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.xml
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.dll
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\CKFinder.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.dll.config
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.pdb
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Razor.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.pdb
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.pdb
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.xml
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.xml
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Razor.xml
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.dll
+C:\Users\Admin\Desktop\data\QuanLyThuVien(15-12-2018_GanNopRoi)\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\ApplicationInsights.config
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\csc.exe
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\vbc.exe
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.dll.config
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.pdb
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.SqlServer.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Web.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.ApplicationInsights.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.Mvc.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Helpers.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Mvc.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Razor.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Deployment.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Razor.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.pdb
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.dll.config
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.pdb
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.dll.config
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.SqlServer.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Web.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.ApplicationInsights.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.Mvc.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Razor.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Deployment.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Razor.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Helpers.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Mvc.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojAssemblyReference.cache
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\ApplicationInsights.config
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\csc.exe
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\System.Collections.Immutable.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\System.Reflection.Metadata.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\vbc.exe
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe.config
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.dll.config
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.pdb
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.SqlServer.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Web.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.ApplicationInsights.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.Web.Infrastructure.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.Mvc.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Helpers.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Mvc.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Razor.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Deployment.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Razor.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.pdb
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.dll.config
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.pdb
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.dll.config
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.xml
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.SqlServer.xml
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.xml
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Web.xml
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.xml
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.ApplicationInsights.xml
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.xml
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.Mvc.xml
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Razor.xml
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.xml
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Deployment.xml
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Razor.xml
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Helpers.xml
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Mvc.xml
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojAssemblyReference.cache
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.dll
+F:\Study\CNTT_HCMUTE\Đồ Án\ĐồÁn1_QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\ApplicationInsights.config
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\csc.exe
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\System.Collections.Immutable.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\System.Reflection.Metadata.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\vbc.exe
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe.config
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.dll.config
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.pdb
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.SqlServer.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Web.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.ApplicationInsights.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.Web.Infrastructure.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.Mvc.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Helpers.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Mvc.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Razor.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Deployment.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Razor.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.pdb
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.dll.config
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.pdb
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.dll.config
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.xml
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.SqlServer.xml
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.xml
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Web.xml
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.xml
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.ApplicationInsights.xml
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.xml
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.Mvc.xml
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Razor.xml
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.xml
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Deployment.xml
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Razor.xml
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Helpers.xml
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Mvc.xml
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojAssemblyReference.cache
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.dll
+F:\Study\Khóa Học HCMUTE\Đồ Án\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\ApplicationInsights.config
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\csc.exe
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\System.Collections.Immutable.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\System.Reflection.Metadata.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\vbc.exe
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe.config
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.dll.config
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.pdb
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.SqlServer.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Web.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.ApplicationInsights.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.Web.Infrastructure.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.Mvc.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Helpers.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Mvc.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Razor.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Deployment.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Razor.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.pdb
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.dll.config
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.pdb
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.dll.config
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.xml
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.SqlServer.xml
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.xml
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Web.xml
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.xml
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.ApplicationInsights.xml
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.xml
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.Mvc.xml
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Razor.xml
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.xml
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Deployment.xml
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Razor.xml
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Helpers.xml
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Mvc.xml
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojAssemblyReference.cache
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.dll
+F:\Study\COURSES - HCMUTE\FinalProject\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\ApplicationInsights.config
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\csc.exe
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\vbc.exe
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.dll.config
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.pdb
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.SqlServer.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Web.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.ApplicationInsights.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.Mvc.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Helpers.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Mvc.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Razor.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Deployment.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Razor.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.pdb
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.dll.config
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.pdb
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.dll.config
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.xml
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.SqlServer.xml
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Web.xml
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.ApplicationInsights.xml
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.xml
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.Mvc.xml
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Razor.xml
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.xml
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Deployment.xml
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Razor.xml
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Helpers.xml
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Mvc.xml
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.dll
+C:\Users\COMPUTER\Desktop\Đồ Án 1 - QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\ApplicationInsights.config
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\csc.exe
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\vbc.exe
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.dll.config
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\QuanLyThuVien.pdb
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.SqlServer.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Web.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.ApplicationInsights.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.Mvc.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Helpers.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Mvc.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Razor.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Deployment.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Razor.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.pdb
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\BusinessLogic.dll.config
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.pdb
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\DataProvider.dll.config
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\EntityFramework.SqlServer.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.Web.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.ApplicationInsights.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\PagedList.Mvc.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Razor.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Deployment.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Webpages.Razor.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Helpers.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\bin\System.Web.Mvc.xml
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojAssemblyReference.cache
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.dll
+C:\Users\COMPUTER\Downloads\QuanLyThuVien\QuanLyThuVienBanHoanChinhNop\QuanLyThuVien(Ajax_jQuery)\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojAssemblyReference.cache
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\ApplicationInsights.config
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\roslyn\csc.exe
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\roslyn\vbc.exe
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\QuanLyThuVien.dll.config
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\QuanLyThuVien.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\QuanLyThuVien.pdb
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\BusinessLogic.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\DataProvider.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\EntityFramework.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\EntityFramework.SqlServer.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.Web.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.ApplicationInsights.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\PagedList.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\PagedList.Mvc.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\QuanLyThuVien.Service.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Helpers.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Mvc.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Razor.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Webpages.Deployment.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Webpages.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Webpages.Razor.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\BusinessLogic.pdb
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\BusinessLogic.dll.config
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\DataProvider.pdb
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\DataProvider.dll.config
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\EntityFramework.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\EntityFramework.SqlServer.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.Web.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.ApplicationInsights.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\PagedList.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\PagedList.Mvc.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\QuanLyThuVien.Service.pdb
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Razor.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Webpages.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Webpages.Deployment.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Webpages.Razor.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Helpers.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Mvc.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Autofac.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Autofac.Integration.Mvc.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.Owin.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Owin.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Autofac.pdb
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Autofac.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Autofac.Integration.Mvc.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.Owin.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\FakeHttpContext.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.Owin.Security.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Newtonsoft.Json.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Owin.Context.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.Owin.Security.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Newtonsoft.Json.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Antlr3.Runtime.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\dotless.Core.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Optimization.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Optimization.Less.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\WebGrease.dll
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Antlr3.Runtime.pdb
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Optimization.xml
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Optimization.Less.pdb
+C:\Users\COMPUTER\Desktop\QuanLyThuVien\QuanLyThuVien\bin\System.Web.Optimization.Less.xml

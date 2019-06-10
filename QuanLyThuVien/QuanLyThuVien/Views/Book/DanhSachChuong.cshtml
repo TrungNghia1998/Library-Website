@@ -1,0 +1,18 @@
+﻿
+@*@using PagedList.Mvc;*@
+
+@foreach (var item in Model)
+{
+    @*<a href="/doc-sach/@item.BookAlias/@item.ChapterAlias" target="_blank">Chương @item.ChapterID: @item.NameChapter</a>*@
+    <a href="@Url.Action("ChangeChapter","Book", new { chapAlias = @item.ChapterAlias })" target="_blank">Chương @item.ChapterID: @item.NameChapter</a>
+    <br />
+    @*<hr>*@
+}
+
+@*<div class="col-xs-12">
+    <ul class="pagination pagination-sm" style="float: right">
+        @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+    </ul>
+</div>*@
+
+<hr />

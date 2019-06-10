@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4ffd83da9cef443197190e1ce4b4b7f8" Name="Diagram1" ZoomLevel="82">
+        <EntityTypeShape EntityType="QuanLyThuVienModel.Author" Width="1.5" PointX="3" PointY="0.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThuVienModel.BookCategory" Width="1.5" PointX="2.625" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThuVienModel.ChapterDetail" Width="1.5" PointX="8.5" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThuVienModel.Quotation" Width="1.5" PointX="12.875" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThuVienModel.TypeUser" Width="1.5" PointX="10" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThuVienModel.User" Width="1.5" PointX="14.625" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyThuVienModel.ThongTin" Width="1.5" PointX="6.875" PointY="6.625" />
+        <AssociationConnector Association="QuanLyThuVienModel.FK_Users_TypeUsers" />
+        <EntityTypeShape EntityType="QuanLyThuVienModel.TypeEbook" Width="1.5" PointX="4" PointY="9" />
+        <EntityTypeShape EntityType="QuanLyThuVienModel.Book" Width="1.5" PointX="5.5" PointY="0.5" />
+        <AssociationConnector Association="QuanLyThuVienModel.FK_Books_Authors" />
+        <AssociationConnector Association="QuanLyThuVienModel.FK_Books_BookCategories" />
+        <AssociationConnector Association="QuanLyThuVienModel.FK_ChapterDetails_Books" />
+        <EntityTypeShape EntityType="QuanLyThuVienModel.AudioBook" Width="1.5" PointX="7.625" PointY="3.5" />
+        <AssociationConnector Association="QuanLyThuVienModel.FK_AudioBook_Books" />
+        <EntityTypeShape EntityType="QuanLyThuVienModel.Ebook" Width="1.5" PointX="13" PointY="7.25" />
+        <AssociationConnector Association="QuanLyThuVienModel.FK_Ebook_Books" />
+        <AssociationConnector Association="QuanLyThuVienModel.FK_Ebook_TypeEbook" />
+        </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

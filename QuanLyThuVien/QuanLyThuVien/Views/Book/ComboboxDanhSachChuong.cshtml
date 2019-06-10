@@ -1,0 +1,5 @@
+﻿@foreach (var item in Model)
+{
+    <li><a href="@Url.Action("ChangeChapter","Book", new { chapAlias = @item.ChapterAlias })">@item.NameChapter</a></li>
+    @*<li><a href="@Url.Action("ButtonReadOnline","Book", new { chapter = @item.ChapterID })">@item.NameChapter</a></li>*@
+}

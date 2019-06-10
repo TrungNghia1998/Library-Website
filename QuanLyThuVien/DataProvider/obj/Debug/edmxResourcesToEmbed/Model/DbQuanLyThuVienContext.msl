@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QuanLyThuVienModelStoreContainer" CdmEntityContainer="DbQuanLyThuVienContext">
+    <EntitySetMapping Name="Authors">
+      <EntityTypeMapping TypeName="QuanLyThuVienModel.Author">
+        <MappingFragment StoreEntitySet="Authors">
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Alias" ColumnName="Alias" />
+          <ScalarProperty Name="AuthorID" ColumnName="AuthorID" />
+          <ScalarProperty Name="AuthorName" ColumnName="AuthorName" />
+          <ScalarProperty Name="DescriptionAuthor" ColumnName="DescriptionAuthor" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BookCategories">
+      <EntityTypeMapping TypeName="QuanLyThuVienModel.BookCategory">
+        <MappingFragment StoreEntitySet="BookCategories">
+          <ScalarProperty Name="CategoryID" ColumnName="CategoryID" />
+          <ScalarProperty Name="CategoryName" ColumnName="CategoryName" />
+          <ScalarProperty Name="SeoTitle" ColumnName="SeoTitle" />
+          <ScalarProperty Name="MetaKeywords" ColumnName="MetaKeywords" />
+          <ScalarProperty Name="MetaDescription" ColumnName="MetaDescription" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="ShowOnHome" ColumnName="ShowOnHome" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ChapterDetails">
+      <EntityTypeMapping TypeName="QuanLyThuVienModel.ChapterDetail">
+        <MappingFragment StoreEntitySet="ChapterDetails">
+          <ScalarProperty Name="Alias" ColumnName="Alias" />
+          <ScalarProperty Name="NameChapter" ColumnName="NameChapter" />
+          <ScalarProperty Name="IDBook" ColumnName="IDBook" />
+          <ScalarProperty Name="ChapterID" ColumnName="ChapterID" />
+          <ScalarProperty Name="Content" ColumnName="Content" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Quotations">
+      <EntityTypeMapping TypeName="QuanLyThuVienModel.Quotation">
+        <MappingFragment StoreEntitySet="Quotations">
+          <ScalarProperty Name="QuotationID" ColumnName="QuotationID" />
+          <ScalarProperty Name="NameQuotation" ColumnName="NameQuotation" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TypeUsers">
+      <EntityTypeMapping TypeName="QuanLyThuVienModel.TypeUser">
+        <MappingFragment StoreEntitySet="TypeUsers">
+          <ScalarProperty Name="TypeID" ColumnName="TypeID" />
+          <ScalarProperty Name="TypeName" ColumnName="TypeName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="QuanLyThuVienModel.User">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ThongTins">
+      <EntityTypeMapping TypeName="QuanLyThuVienModel.ThongTin">
+        <MappingFragment StoreEntitySet="ThongTin">
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="MetaTitle" ColumnName="MetaTitle" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TypeEbooks">
+      <EntityTypeMapping TypeName="QuanLyThuVienModel.TypeEbook">
+        <MappingFragment StoreEntitySet="TypeEbook">
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="TypeID" ColumnName="TypeID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Books">
+      <EntityTypeMapping TypeName="QuanLyThuVienModel.Book">
+        <MappingFragment StoreEntitySet="Books">
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="TopHot" ColumnName="TopHot" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
+          <ScalarProperty Name="MoreImages" ColumnName="MoreImages" />
+          <ScalarProperty Name="ViewCount" ColumnName="ViewCount" />
+          <ScalarProperty Name="CategoryID" ColumnName="CategoryID" />
+          <ScalarProperty Name="AuthorID" ColumnName="AuthorID" />
+          <ScalarProperty Name="Alias" ColumnName="Alias" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="BookName" ColumnName="BookName" />
+          <ScalarProperty Name="BookID" ColumnName="BookID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AudioBooks">
+      <EntityTypeMapping TypeName="QuanLyThuVienModel.AudioBook">
+        <MappingFragment StoreEntitySet="AudioBook">
+          <ScalarProperty Name="Alias" ColumnName="Alias" />
+          <ScalarProperty Name="FileAudioPath" ColumnName="FileAudioPath" />
+          <ScalarProperty Name="FileAudioSize" ColumnName="FileAudioSize" />
+          <ScalarProperty Name="AudioName" ColumnName="AudioName" />
+          <ScalarProperty Name="AudioID" ColumnName="AudioID" />
+          <ScalarProperty Name="BookID" ColumnName="BookID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ebooks">
+      <EntityTypeMapping TypeName="QuanLyThuVienModel.Ebook">
+        <MappingFragment StoreEntitySet="Ebook">
+          <ScalarProperty Name="Link" ColumnName="Link" />
+          <ScalarProperty Name="TypeEbookID" ColumnName="TypeEbookID" />
+          <ScalarProperty Name="BookID" ColumnName="BookID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

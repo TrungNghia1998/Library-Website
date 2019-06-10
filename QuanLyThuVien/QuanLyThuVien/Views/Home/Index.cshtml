@@ -1,0 +1,50 @@
+﻿@model  PagedList.IPagedList<DataProvider.Model.Book>
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "Trang Chủ";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section slide
+{
+    <!--List Slide Bên phải màn hình</!-->
+    <div class="col-md-3 sidebar">
+        <!--Danh Ngôn Hay-->
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                Danh Ngôn Hay
+            </div>
+            <div class="panel-body">
+                @{ Html.RenderAction("RandomQuotation", "Home");}
+            </div>
+        </div>
+
+        <!--Slide Thể loại Sách-->
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                Thể loại sách
+            </div>
+            <ul id="sidebar" class="nav nav-pills nav-stacked">
+                 @{ Html.RenderAction("TaoBangBenPhai", "Book"); }
+            </ul>
+        </div>
+    </div>
+}
+
+
+<!-- List Ebooks</!-->
+<!-- Render Body-->
+<div class="col-md-9">
+    <div class="panel panel-primary">
+        <!--Tiêu Đề</!-->
+        <div class="panel-heading">Tất Cả Sách</div>
+        <!--Phần thân</!-->
+        <div class="panel-body">
+            @Html.Partial("BodyListBook",Model)
+        </div>	<!--end pannel-->
+    </div>
+</div>
+
+
+

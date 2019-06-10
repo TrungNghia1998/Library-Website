@@ -1,0 +1,136 @@
+﻿
+@{
+    //Layout = null;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var book = (DataProvider.Model.Book)ViewBag.Book;
+    var author = (DataProvider.Model.Author)ViewBag.Author;
+    var bookcategory = (DataProvider.Model.BookCategory)ViewBag.Category;
+}
+
+@section slide
+{
+    <!--List Slide Bên phải màn hình</!-->
+    <div class="col-md-3 sidebar">
+
+        <!--Danh Ngôn Hay-->
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                Danh Ngôn Hay
+            </div>
+            <div class="panel-body">
+                @*"Có vết thương nào tệ hại hơn một tình yêu giả dối?"*@
+                @{ Html.RenderAction("RandomQuotation", "Home");}
+            </div>
+        </div>
+
+        <!--Slide Thể loại Sách-->
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                Thể loại sách
+            </div>
+            <ul id="sidebar" class="nav nav-pills nav-stacked">
+                @*@foreach (var item in Model)
+                    {
+                        <li><a href="/the-loai/@item.SeoTitle"><span class="glyphicon glyphicon-record"> </span> @item.CategoryName</a></li>
+                    }*@
+                @{ Html.RenderAction("TaoBangBenPhai", "Book"); }
+            </ul>
+        </div>
+    </div>
+}
+
+@*<meta name="viewport" content="width=device-width" />
+    <title>UploadAudio</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="/Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="/scripts/jquery-3.3.1.min.js"></script>
+    <script src="/scripts/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.16/css/dataTables.bootstrap4.min.css" />
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.16/js/dataTables.bootstrap4.min.js"></script>*@
+<script>
+    $(document).ready(function () {
+        $('#dataTable').DataTable();
+
+        $("audio").on("play", function () {
+            $("audio").not(this).each(function (index, audio) {
+                audio.pause();
+            });
+
+        });
+    });
+</script>
+
+<div class="col-md-9">
+    <!--Tất Cả Thông Tin Của Sách -->
+    <div class="panel panel-primary">
+        <div class="panel-body">
+            <div class="row thong-tin-ebook">
+                <!--Thông tin Ebook -->
+                <!--Ảnh Của Sách -->
+                <div class="col-md-4 cover">
+                    <img src="@book.MoreImages" class="img-thumbnail-1" alt="@book.BookName" width="304" height="236">
+                </div>
+
+                <div class="col-md-8">
+                    <!--Cột Thông Tin Về Chi Tiết Cuốn Sách-->
+                    <a href="">
+                        <h1 class="ebook_title text-primary">
+                            [AudioBook] @book.BookName
+                        </h1>
+                    </a>
+                    <!--Nút Like Và Share FB-->
+                    <div class="fb-like fb_iframe_widget" data-href="https://sachvui.com/ebook/truyen-ngan-dac-sac-nga-nhieu-tac-gia.3042.html" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="true" fb-xfbml-state="rendered" fb-iframe-plugin-query="action=like&amp;app_id=725719534131710&amp;container_width=393&amp;href=https%3A%2F%2Fsachvui.com%2Febook%2Ftruyen-ngan-dac-sac-nga-nhieu-tac-gia.3042.html&amp;layout=button_count&amp;locale=vi_VN&amp;sdk=joey&amp;share=true&amp;show_faces=true&amp;size=large">
+                        <span style="vertical-align: bottom; width: 151px; height: 28px;">
+                            <iframe name="ffed106417b94c" width="1000px" height="1000px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" title="fb:like Facebook Social Plugin" src="https://www.facebook.com/v2.8/plugins/like.php?action=like&amp;app_id=725719534131710&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FafATJJjxKE6.js%3Fversion%3D43%23cb%3Df197b40591dc644%26domain%3Dsachvui.com%26origin%3Dhttps%253A%252F%252Fsachvui.com%252Ff2e83e4642294f8%26relation%3Dparent.parent&amp;container_width=393&amp;href=https%3A%2F%2Fsachvui.com%2Febook%2Ftruyen-ngan-dac-sac-nga-nhieu-tac-gia.3042.html&amp;layout=button_count&amp;locale=vi_VN&amp;sdk=joey&amp;share=true&amp;show_faces=true&amp;size=large" style="border: none; visibility: visible; width: 151px; height: 28px;" class=""></iframe>
+                        </span>
+                    </div>
+
+                    <h5>Tác Giả : @author.AuthorName</h5>
+
+                    <h5>
+                        Thể Loại :
+                        <a href="/the-loai/@bookcategory.SeoTitle">@bookcategory.CategoryName</a>
+                    </h5>
+
+                    
+
+                    <div class="alert alert-info" role="alert">
+                        <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>
+                          Để tải về, click vào dấu 3 chấm và chọn Tải xuống
+                    </div>
+
+                    <audio controls style="width:520px;">
+                        <source src="@Url.Content(Model.FileAudioPath)" type="audio/ogg">
+                    </audio>
+                 
+                </div>
+            </div>
+            <hr>
+
+            <h4>Giới Thiệu</h4>
+
+            <!--Giới thiệu - mô tả về cuốn sách-->
+            <div class="gioi_thieu_sach text-justify">
+                <p>
+                    @book.Description
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!--Bạn Đọc Bình Luận-->
+    <div class="panel panel-primary">
+        <!-- Default panel contents -->
+        <div class="panel-heading">Bình luận</div>
+        <div class="panel-body">
+            <div class="fb-comments fb_iframe_widget fb_iframe_widget_fluid_desktop" data-href="ebook/@book.Alias" data-numposts="5" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=725719534131710&amp;container_width=604&amp;height=100&amp;href=http%3A%2F%2Fsachvui.com%2Febook%2Ftruyen-ngan-dac-sac-nga-nhieu-tac-gia.3042.html&amp;locale=vi_VN&amp;numposts=5&amp;sdk=joey&amp;version=v2.8&amp;width=550">
+                <span style="vertical-align: bottom; width: 550px; height: 178px;">
+                    <iframe name="f1012618ff25c3c" width="550px" height="100px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" title="fb:comments Facebook Social Plugin" src="" style="border: none; visibility: visible; width: 550px; height: 178px;" class="">
+
+                    </iframe>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>

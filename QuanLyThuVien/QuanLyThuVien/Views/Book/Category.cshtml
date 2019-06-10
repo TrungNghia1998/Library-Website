@@ -1,0 +1,72 @@
+﻿@model  PagedList.IPagedList<DataProvider.Model.Book>
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "Category";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var theloaisach = (DataProvider.Model.BookCategory)ViewBag.TheLoaiSach;
+}
+
+@section slide
+{
+    <!--List Slide Bên phải màn hình</!-->
+    <div class="col-md-3 sidebar">
+
+        <!--Danh Ngôn Hay-->
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                Danh Ngôn Hay
+            </div>
+            <div class="panel-body">
+                @{ Html.RenderAction("RandomQuotation", "Home");}
+            </div>
+        </div>
+
+        <!--Slide Thể loại Sách-->
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                Thể loại sách
+            </div>
+            <ul id="sidebar" class="nav nav-pills nav-stacked">
+                @{ Html.RenderAction("TaoBangBenPhai", "Book"); }
+            </ul>
+        </div>
+    </div>
+}
+
+<!-- List Ebooks</!-->
+<!-- Render Body-->
+<div class="col-md-9">
+    <div class="panel panel-primary">
+        <!--Tiêu Đề</!-->
+        <div class="panel-heading">@theloaisach.CategoryName</div>
+
+        <!--Phần thân</!-->
+        <div class="panel-body">
+
+            @*List Sách*@
+            @*@{ Html.RenderAction("BodyListBook", "Book"); }*@
+
+            @foreach (var item in Model)
+            {
+                <div class="col-xs-6 col-md-3 col-sm-3 ebook">
+                    <a href="/ebook/@item.Alias-@item.BookID" class="thumbnail">
+                        <img src="@item.MoreImages" alt="@item.BookName" style="width:100%; height:100%;">
+                    </a>
+                    <h5 class="tieude text-center" style="margin-top:11px">
+                        <a href="/ebook/@item.Alias-@item.BookID">@item.BookName</a>
+                    </h5>
+                </div>
+            }
+
+            @*List Phân Trang*@
+            <div class="col-xs-12">
+                <ul class="pagination pagination-sm" style="float: right">
+                    @Html.PagedListPager(Model, page => Url.Action("Category", new { page }))
+                </ul>
+            </div>
+        </div>	<!--end pannel-->
+
+    </div>
+</div>
+

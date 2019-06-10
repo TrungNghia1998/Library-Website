@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Truyện</title>
+
+    <link rel="stylesheet" href="/assets/client/css/TrangChu.css">
+
+    <!--Nhúng cho Đọc Online-->
+    <link rel="stylesheet" href="/assets/client/css/webstyle.css">
+    <link rel="stylesheet" href="/assets/client/css/doconline.css">
+
+    <!---->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="/assets/client/bootstrap/css/boostrap.min.css">
+    <link rel="stylesheet" href="/assets/client/bootstrap/css/bootstrap.css">
+
+    <!---->
+    <link href="/assets/client/css/jquery-ui.css" rel="stylesheet" />
+
+    <!-- jQuery library -->
+    <script src="/assets/client/jquery/jquery.js"></script>
+
+
+    <!-- Popper JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="/assets/client/bootstrap/js/bootstrap.min.js"></script>
+    <!---->
+    <script src="/assets/client/js/jquery-ui.js"></script>
+
+</head>
+<body>
+    <div class="container" style="padding-top: 10px">
+        <div class="col-md-12">
+            <nav class="navbar navbar-default" @*id="Header-1"*@>
+                <!--Start Header-->
+                <header>
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand text-muted" href="/">
+                            Thư Viện Online
+                        </a>
+                    </div>
+
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav">
+                            <li class=""><a href="/">Trang chủ <span class="sr-only">(current)</span></a></li>
+                            @{ Html.RenderAction("MenuHeaderTheLoaiSach", "Home"); }     @*Combobox Thể loại sách*@
+                            @{ Html.RenderAction("MenuHeaderThongTin", "Home"); }        @*Combobox Thông tin*@
+                        </ul>
+
+                        <!--Tìm Kiếm-->
+                        <form class="navbar-form navbar-right" action="/tim-kiem" method="get">
+                            <div class="form-group">
+                                <input type="text" id="txtKeyword" name="keyword" class="form-control" placeholder="Search">
+                            </div>
+                            <button type="submit" class="btn btn-default">
+                                <i class="glyphicon glyphicon-search"></i>
+                            </button>
+                        </form>
+                    </div><!-- /.navbar-collapse -->
+                </header>
+                <!-- End Header -->
+            </nav>
+        </div>
+
+
+        <!--Body-->
+        <div class="row">
+            <div class="col-md-12">
+                @RenderBody()                            @*Phần sách bên trái*@
+                @RenderSection("slide", required: false) @*Cột Slide bên phải*@
+            </div>
+
+        </div>
+
+        <script src="/assets/client/js/controller/baseController.js"></script>
+
+        <footer class="footer">
+            2018 Thư Viện Online, Tổ chức phi lợi nhuận
+        </footer>
+    </div>
+</body>
+</html>

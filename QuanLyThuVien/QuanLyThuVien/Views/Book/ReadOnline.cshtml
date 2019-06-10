@@ -1,0 +1,88 @@
+﻿
+@{
+    ViewBag.Title = "ReadOnline";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var book = (DataProvider.Model.Book)ViewBag.Book;
+    var chuongsachdautien = (DataProvider.Model.ChapterDetail)ViewBag.ChuongSachDuocChon;
+}
+
+
+    <div class="doc-online">
+        <h3 class="text-center">
+            @book.BookName
+        </h3>
+        <h3 class="text-center">
+            <small>
+                <a href="" class="lin-tap">@chuongsachdautien.NameChapter</a>
+            </small>
+        </h3>
+        <hr><!--Thanh Kẻ Ngang-->
+        <!--Thanh Chuyển Chương Trên-->
+        <div style="text-align: center;">
+            <div class="btn-group text-center">
+                <button type="button" class="btn btn-sm btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Chọn tập <span class="caret"></span></button>
+                @*<ul class="dropdown-menu scrollable-menu">
+                        <li class="active"><a href="">@Model.NameChapter</a></li>
+                        <li><a href="">Rào Cản Vô Hình</a></li>
+                        <li><a href="">Sức Mạnh Của Sự Đơn Giản</a></li>
+                        <li><a href="">Hoặc Giỏi Hoặc Ra Rìa</a></li>
+                    </ul>
+                *@
+                <ul class="dropdown-menu scrollable-menu">
+                    <li class="active">
+                        <a href="">Chương @chuongsachdautien.ChapterID - @chuongsachdautien.NameChapter</a>
+                    </li>
+                    @*@{ Html.RenderAction("ComboboxDanhSachChuong", "Book"); }*@
+                    @foreach (var item in Model)
+                    {
+                        <li><a href="@Url.Action("ChangeChapter","Book", new { chapAlias = @item.ChapterAlias })">Chương @item.ChapterID - @item.NameChapter</a></li>
+                    }
+                </ul>
+                <!--Button Next Chương Kế-->
+                @*<a href="doc-sach/@book.Alias/">
+                    <button type="button" class="btn btn-default btn-gly">
+                        <span class="glyphicon glyphicon-arrow-right"></span>
+                    </button>
+                </a>*@
+            </div>
+            <div></div>
+
+            <p class="noi-dung-online"> @Html.Raw(chuongsachdautien.Content)</p>
+           
+
+            <!--Thanh Chuyển Chương Dưới-->
+            <div style="text-align: center;">
+                <div class="btn-group text-center">
+                    <button type="button" class="btn btn-sm btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Chọn tập <span class="caret"></span></button>
+                    <ul class="dropdown-menu scrollable-menu">
+                        <li class="active">
+                            <a href="">Chương @chuongsachdautien.ChapterID - @chuongsachdautien.NameChapter</a>
+                        </li>
+                        @*@{ Html.RenderAction("ComboboxDanhSachChuong", "Book"); }*@
+                        @foreach (var item in Model)
+                        {
+                            <li><a href="@Url.Action("ChangeChapter","Book", new { chapAlias = @item.ChapterAlias })">Chương @item.ChapterID - @item.NameChapter</a></li>
+                        }
+                    </ul>
+                    @*<a href="">
+                        <button type="button" class="btn btn-default btn-gly">
+                            <span class="glyphicon glyphicon-arrow-right"></span>
+                        </button>
+                    </a>*@
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="panel panel-primary">
+        <div class="panel-heading">Bình luận</div>
+        <div class="panel-body">
+            <div class="fb-comments fb_iframe_widget fb_iframe_widget_fluid_desktop" data-href="ebook/@book.Alias" data-numposts="5" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=725719534131710&amp;container_width=604&amp;height=100&amp;href=http%3A%2F%2Fsachvui.com%2Febook%2Ftruyen-ngan-dac-sac-nga-nhieu-tac-gia.3042.html&amp;locale=vi_VN&amp;numposts=5&amp;sdk=joey&amp;version=v2.8&amp;width=550">
+                <span style="vertical-align: bottom; width: 550px; height: 178px;">
+                    <iframe name="f1012618ff25c3c" width="550px" height="100px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" title="fb:comments Facebook Social Plugin" src="" style="border: none; visibility: visible; width: 550px; height: 178px;" class=""></iframe>
+                </span>
+            </div>
+        </div>
+    </div>
+   
+
